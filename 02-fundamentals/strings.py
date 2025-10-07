@@ -52,7 +52,7 @@ které oddělíme dvojtečkou:
 '''
 
 # Vypíše 4. znak z řetězce
-# print(course_name[3])
+#print(course_name[3])
 
 '''
 Důležité je si zapamatovat, že slice indexy ukazují mezi znaky, přičemž levá hrana prvního znaku má číslo 0 
